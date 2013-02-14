@@ -13,4 +13,4 @@ This provides a chrome web app link for quick launching of the JS API documentat
 * Enjoy!
 
 ## Customize
-* you can include your own modifications (ex: launch page) by editing the manifest and icons before loading package into chrome.
+* You can include your own modifications (ex: launch page) by editing the manifest and icons before loading package into chrome.
