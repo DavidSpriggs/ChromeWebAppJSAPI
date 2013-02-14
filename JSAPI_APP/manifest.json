@@ -1,0 +1,22 @@
+{
+	"manifest_version": 2,
+	"name": "ESRI JS API",
+	"description": "ESRI JavaScript API. Built on the Dojo Toolkit.",
+	"version": "1.0",
+	"icons": {
+		"128": "128_round.png",
+		"440": "440.png"
+	},
+	"app": {
+		"urls": [
+			"http://help.arcgis.com"
+			],
+		"launch": {
+			"web_url": "http://help.arcgis.com/en/webapi/javascript/arcgis/index.html"
+		}
+	},
+	"permissions": [
+		"unlimitedStorage",
+		"notifications"
+		]
+}
