@@ -12,7 +12,7 @@
 			"http://help.arcgis.com"
 			],
 		"launch": {
-			"web_url": "http://help.arcgis.com/en/webapi/javascript/arcgis/index.html"
+			"web_url": "http://developers.arcgis.com/en/javascript/jsapi/"
 		}
 	},
 	"permissions": [
