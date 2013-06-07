@@ -17,4 +17,4 @@ This provides a chrome web app link for quick launching of the JS API documentat
 
 ## Preview
 Chrome icon:
-[icon](https://raw.github.com/DavidSpriggs/ChromeWebAppJSAPI/master/JSAPI_APP/icon128.png)
+![chrome icon](https://raw.github.com/DavidSpriggs/ChromeWebAppJSAPI/master/JSAPI_APP/icon128.png)
