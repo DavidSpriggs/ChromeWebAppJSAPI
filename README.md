@@ -14,3 +14,7 @@ This provides a chrome web app link for quick launching of the JS API documentat
 
 ## Customize
 * You can include your own modifications (ex: launch page) by editing the manifest and icons before loading package into chrome.
+
+## Preview
+Chrome icon:
+[icon](https://raw.github.com/DavidSpriggs/ChromeWebAppJSAPI/master/JSAPI_APP/icon128.png)

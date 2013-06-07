@@ -1,0 +1,221 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"A",
+				"placeAt"
+			],
+			[
+				"in",
+				"initExt"
+			],
+			[
+				"a",
+				"alwaysUseProxy"
+			],
+			[
+				"mp",
+				"mapOverlay"
+			],
+			[
+				"le",
+				"leftContent"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/inetpub/wwwroot/git/ChromeWebAppJSAPI/README.md",
+		"/C/inetpub/wwwroot/git/ChromeWebAppJSAPI/JSAPI_APP/manifest.json",
+		"/C/inetpub/wwwroot/git/ChromeWebAppJSAPI/ChromeWebAppJSAPI.sublime-project",
+		"/C/inetpub/wwwroot/svn/BoilerPlateSTL/BoilerPlateSTL.sublime-project",
+		"/C/inetpub/wwwroot/git/arcpy-server-util-rest/README.md",
+		"/C/inetpub/wwwroot/git/ChromeWebAppJSAPI/manifest.json",
+		"/C/Users/davi5768/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/inetpub/wwwroot/svn/BoilerPlateSTL/amd/js/viewer/templates/mapOverlay.html",
+		"/C/inetpub/wwwroot/svn/BoilerPlateSTL/jsapi_vsdoc_v32_2010.js",
+		"/C/inetpub/wwwroot/svn/BoilerPlateSTL/amd/js/gis/dijit/Growler.js",
+		"/C/inetpub/wwwroot/svn/BoilerPlateSTL/amd/js/gis/dijit/Print.js",
+		"/C/inetpub/wwwroot/svn/BoilerPlateSTL/amd/js/viewer/templates/leftContent.html",
+		"/C/inetpub/wwwroot/svn/BoilerPlateSTL/amd/index.html",
+		"/C/inetpub/wwwroot/svn/BoilerPlateSTL/amd/js/viewer/app.js",
+		"/C/inetpub/wwwroot/svn/node/BecksMiddlewareNode/BecksMiddleWareNode.sublime-workspace",
+		"/C/inetpub/wwwroot/svn/node/BecksMiddlewareNode/BecksMiddleWareNode.sublime-project",
+		"/C/inetpub/wwwroot/svn/node/BecksMiddlewareNode/FileUpload/readme.md",
+		"/C/inetpub/wwwroot/svn/node/BecksMiddlewareNode/FileUpload/app.js",
+		"/C/apps/mongo/mongo_start_db.bat",
+		"/C/inetpub/wwwroot/svn/node/BecksMiddlewareNode/FileUpload/views/listFiles.jade",
+		"/C/inetpub/wwwroot/svn/node/BecksMiddlewareNode/FileUpload/views/includes/showImage.jade",
+		"/C/apps/mongo/mongo_start_shell.bat",
+		"/C/apps/mongo/mongo_start.bat",
+		"//jsmatrix/ArcGIS2/src/js/esri/package.json",
+		"//jsmatrix/dojo/test.txt",
+		"//jsmatrix/jsapigisbuild/archive/jsapi/builddate.txt",
+		"//jsmatrix/jsapigisbuild/archive/jsapi/js/esri/package.json",
+		"//jsmatrix/Javascript/ArcGIS2/src/js/esri/package.json",
+		"/C/Users/davi5768/Desktop/README",
+		"/C/inetpub/wwwroot/git/arcpy-server-util-rest/setup.py",
+		"/C/inetpub/wwwroot/git/arcpy-server-util-rest/documentation/createdocs.bat",
+		"/C/Users/davi5768/Downloads/proxy.pac",
+		"/C/Users/davi5768/AppData/Roaming/Sublime Text 2/Packages/JsFormat/JsFormat.sublime-settings",
+		"/C/inetpub/wwwroot/svn/cm/demo/js/cm/tasks/FeedbackTask.js",
+		"/C/inetpub/wwwroot/svn/cm/demo/js/cm/dijit/Feedback.js",
+		"/C/inetpub/wwwroot/git/EventedMap.js",
+		"/C/inetpub/wwwroot/svn/cm/demo/js/viewer/app.js",
+		"//psstldemo3/c$/inetpub/wwwroot/apps/AdHocPrinting/lib/gis/dijit/Print/templates/Print.html",
+		"/C/inetpub/wwwroot/git/passport-local/examples/login/app.js",
+		"//davids/c$/inetpub/wwwroot/svn/esi/token.html",
+		"/C/inetpub/wwwroot/git/AdHocPrinting/lib/gis/viewer/config.json",
+		"/C/inetpub/wwwroot/git/AdHocPrinting/proxy/proxy.ashx",
+		"/C/inetpub/wwwroot/git/AdHocPrinting/proxy/proxy.config",
+		"/C/inetpub/wwwroot/git/AdHocPrinting/lib/gis/dijit/Print/templates/Print.html",
+		"/C/inetpub/wwwroot/git/AdHocPrinting/README.md"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/inetpub/wwwroot/git/AdHocPrinting/AdHocPrinting.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true
+}
