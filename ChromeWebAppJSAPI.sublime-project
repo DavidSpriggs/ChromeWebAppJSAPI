@@ -1,9 +1,0 @@
-{
-	"folders":
-	[
-		{
-			"path": "/C/inetpub/wwwroot/git/ChromeWebAppJSAPI",
-			"file_exclude_patterns": ["*.sublime*"]
-		}
-	]
-}
