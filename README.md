@@ -4,10 +4,11 @@ This provides a chrome web app link for quick launching of the JS API documentat
 
 ## Automatic Installation
 
-* Download the packed extension file (.crx): [JSAPI_APP.crx](https://github.com/DavidSpriggs/ChromeWebAppJSAPI/raw/master/JSAPI_APP.crx)
+* Download the packed extension file (.crx) here: [JSAPI_APP.crx](https://github.com/DavidSpriggs/ChromeWebAppJSAPI/raw/master/JSAPI_APP.crx)
 * In chrome, open the extensions tab: [chrome://extensions/](chrome://extensions/) (settings > tools > extensions)
-* Open the folder where the .crx file was saved to.
-* From the folder, drag and drop the JSAPI_APP.crx file onto the extensions page (you must do this from the folder or it will not work).
+* Open the folder where the JSAPI_APP.crx file was saved to.
+* From the folder, drag and drop the JSAPI_APP.crx file onto the extensions page (you must drag and drop from the folder or it will not work).
+* Confirm the install.
 
 ## Manual Installation
 
@@ -26,3 +27,7 @@ This provides a chrome web app link for quick launching of the JS API documentat
 Chrome icon:
 
 ![chrome icon](https://raw.github.com/DavidSpriggs/ChromeWebAppJSAPI/master/JSAPI_APP/icon128.png)
+
+Preview in apps tab:
+
+![preview](https://github.com/DavidSpriggs/ChromeWebAppJSAPI/raw/master/source%20images/screen1.png)
